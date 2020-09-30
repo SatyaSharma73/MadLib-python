@@ -1,0 +1,9 @@
+-----------------------MADLIB----------------------------
+
+1. Install Pycharm Community.
+2. Install VLC Media Player.
+3. Go to Settings // project desktop/ project interpreter and then Install Packages Mentioned Below.
+   	-python-vlc
+   	-pyttsx3
+4. Copy the male folder in c drive(Do not paste the male folder into any other folder).
+5. Open the MADLIB.py program.
